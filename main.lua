@@ -16,6 +16,8 @@ local scripts = {
     [94590879393563]    = "https://raw.githubusercontent.com/nofearscripts/wrdggame/refs/heads/main/main.lua",
     -- Abyss
     [127794225497302]   = "https://raw.githubusercontent.com/nofearscripts/aby/refs/heads/main/main.lua",
+    -- Arsenal
+    [286090429]   = "https://raw.githubusercontent.com/nofearscripts/arsnlz/refs/heads/main/main.lua",
 }
 
 
