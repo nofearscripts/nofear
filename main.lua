@@ -18,7 +18,7 @@ local scripts = {
     [127794225497302]   = "https://raw.githubusercontent.com/nofearscripts/aby/refs/heads/main/main.lua",
     -- Arsenal
     [286090429]   = "https://raw.githubusercontent.com/nofearscripts/arsnlz/refs/heads/main/main.lua",
-    -- Garden
+    -- Garden Horizon
     [130594398886540]   = "https://raw.githubusercontent.com/nofearscripts/gardn/refs/heads/main/main.lua",
 }
 
