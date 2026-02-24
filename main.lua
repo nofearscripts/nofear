@@ -6,6 +6,7 @@ local placeId = game.PlaceId
 local scripts = {
     -- Rivals
     [17625359962]        = "https://raw.githubusercontent.com/nofearscripts/rval/refs/heads/main/main/main.lua",
+    [117398147513099]    = "https://raw.githubusercontent.com/nofearscripts/rval/refs/heads/main/main/main.lua",
     -- BloxStrike Main
     [114234929420007]   = "https://raw.githubusercontent.com/nofearscripts/b4st/refs/heads/main/main.lua",
     -- BlockSpin
@@ -91,3 +92,4 @@ else
         end)
     end)
 end
+
